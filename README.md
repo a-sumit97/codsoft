@@ -1,7 +1,7 @@
 C++ Internship Projects
 
 Welcome to my C++ internship projects repository! This repository includes three projects that I developed during my internship at CodSoft. For all these projects, different aspects of C++ programming were in focus that vary from basic operations to game development.
-
+ 
 PROJECTS :
 
 1. Number Guessing Game
